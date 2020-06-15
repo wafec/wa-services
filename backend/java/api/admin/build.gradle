@@ -22,5 +22,5 @@ dependencies {
 }
 
 application {
-    mainClass = 'com.wafec.backend.api.admin.AdminApplication'
+    mainClass = 'com.wafec.api.admin.AdminApplication'
 }
